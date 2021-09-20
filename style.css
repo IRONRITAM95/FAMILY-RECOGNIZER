@@ -1,0 +1,20 @@
+#head{
+    width: 60%;
+    height: 5%;
+}
+body{
+    background:linear-gradient(red,rgb(24, 139, 240),rgb(36, 31, 31),lime,rgb(20, 245, 245)) ;
+}
+.taught{
+    font-size: 25px;
+    font-weight:bolder ;
+    color: seashell;
+}
+#result,#camera{
+    width: 40%;
+    height: 40%;
+    border-radius: 20%;
+    border-style: ridge;
+    border-color: turquoise;
+    border-width: 10px;
+}
